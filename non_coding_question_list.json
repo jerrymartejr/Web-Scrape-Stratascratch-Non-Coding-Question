@@ -1,0 +1,2655 @@
+[
+	{
+		"link": "https://platform.stratascratch.com/technical/2209-missing-values-postgresql",
+		"title": "Missing Values PostgreSQL",
+		"company": "Commonwealth Computer Research",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2163-ball-of-each-color",
+		"title": "Ball of Each Color",
+		"company": "Allstate + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2241-pair-by-drawing-2-cards",
+		"title": "Pair by Drawing 2 Cards",
+		"company": "Meta",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2210-variance-in-unsupervised-model",
+		"title": "Variance in Unsupervised Model",
+		"company": "DST Systems",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2237-neural-network",
+		"title": "Neural Network",
+		"company": "Centiment",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2162-statistics-mean-function",
+		"title": "Statistics Mean Function",
+		"company": "OnDeck + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2246-overfitting-problem",
+		"title": "Overfitting Problem",
+		"company": "Capital One",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2377-clustering-distance-measures",
+		"title": "Clustering distance measures",
+		"company": "Walmart + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2228-anomaly-in-distribution",
+		"title": "Anomaly in Distribution",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2213-driving-conditions-and-congestion",
+		"title": "Driving Conditions and Congestion",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2249-friendship-degrees",
+		"title": "Friendship Degrees",
+		"company": "LiveRamp",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2238-margin-classifier-and-hyperplane",
+		"title": "Margin Classifier and Hyperplane",
+		"company": "Centiment",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2233-us-tobacco-market",
+		"title": "US Tobacco Market",
+		"company": "CKM Advisors",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2164-supervised-and-unsupervised-machine-learning",
+		"title": "Supervised and Unsupervised Machine Learning",
+		"company": "Rosetta + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2145-bagged-and-boosting-models",
+		"title": "Bagged and Boosting Models",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2215-height-of-oil-storage-tank",
+		"title": "Height of Oil Storage Tank",
+		"company": "Orbital Insight + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2361-standard-error-of-the-mean",
+		"title": "Standard Error of the Mean",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2185-calculation-of-test-duration",
+		"title": "Calculation of Test Duration",
+		"company": "Thumbtack + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2240-box-plot-and-histogram",
+		"title": "Box Plot and Histogram",
+		"company": "Microsoft + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2176-population-in-nigeria",
+		"title": "Population in Nigeria",
+		"company": "Citadel + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2320-conversion-rate",
+		"title": "Conversion Rate",
+		"company": "LinkedIn + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2220-regression-with-m-variables",
+		"title": "Regression with M Variables",
+		"company": "Rocket Fuel",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2184-comprehension-in-python",
+		"title": "Comprehension in Python",
+		"company": "Pearson + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2258-in-group-errors",
+		"title": "In-Group Errors",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2181-what-is-more-likely",
+		"title": "What is More Likely",
+		"company": "Capital One + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2239-second-generation-neural-network-model",
+		"title": "Second-Generation Neural Network Model",
+		"company": "Centiment",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2288-combinations-of-three",
+		"title": "Combinations Of Three",
+		"company": "Peak6",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2175-throwing-dice",
+		"title": "Throwing Dice",
+		"company": "Verizon Wireless + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2167-regularization",
+		"title": "Regularization",
+		"company": "Galvanize + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2229-square-root-of-two",
+		"title": "Square Root of Two",
+		"company": "Goldman Sachs",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2358-four-people-in-an-elevator",
+		"title": "Four People in an Elevator",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2354-common-table-expression",
+		"title": "Common Table Expression",
+		"company": "Spotify",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2060-first-to-six",
+		"title": "First to Six",
+		"company": "Zenefits",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2278-pick-2-queens",
+		"title": "Pick 2 Queens",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2245-find-who-cheated",
+		"title": "Find Who Cheated",
+		"company": "Kabbage",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2260-changing-the-scale-of-distance",
+		"title": "Changing the Scale of Distance",
+		"company": "Via Transportation (New York) + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2339-returning-user",
+		"title": "Returning User",
+		"company": "Meta",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2283-two-out-of-five",
+		"title": "Two Out Of Five",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2438-winning-on-your-first-roll",
+		"title": "Winning on Your First Roll",
+		"company": "Asana",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2264-3-heads-probability",
+		"title": "3 Heads Probability",
+		"company": "Belvedere Trading",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2236-certain-factor-predicts-certain-outcome",
+		"title": "Certain Factor Predicts Certain Outcome",
+		"company": "Treehouse + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2231-new-observation-is-outlier",
+		"title": "New Observation is Outlier",
+		"company": "Microsoft",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2227-what-is-x",
+		"title": "What is X",
+		"company": "Citadel",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2224-explain-random-forests",
+		"title": "Explain Random Forests",
+		"company": "ZestFinance + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2342-credit-card-activity",
+		"title": "Credit Card Activity",
+		"company": "Visa",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2223-random-forest-estimator",
+		"title": "Random Forest Estimator",
+		"company": "Zillow + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2279-7th-game-achievement",
+		"title": "7th-Game Achievement",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2265-roll-a-dice",
+		"title": "Roll A Dice",
+		"company": "Belvedere Trading",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2263-hht-probability",
+		"title": "HHT Probability",
+		"company": "Akuna Capital + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2261-assessing-insider-trading",
+		"title": "Assessing Insider Trading",
+		"company": "Civis Analytics + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2247-q-q-plot",
+		"title": "Q-Q Plot",
+		"company": "Tata Consultancy",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2254-missing-values-in-data-set",
+		"title": "Missing Values in Data Set",
+		"company": "HERE Technologies",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2243-definition-of-variance",
+		"title": "Definition of Variance",
+		"company": "Microsoft",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2242-left-join-and-right-join",
+		"title": "Left Join and Right Join",
+		"company": "Credit Acceptance",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2372-outliers-detection",
+		"title": "Outliers Detection",
+		"company": "IBM + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2257-sub-spaces",
+		"title": "Sub-Spaces",
+		"company": "Walmart + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2371-z-and-t-distributions",
+		"title": "Z and t distributions",
+		"company": "SAP",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2421-binomial-distribution",
+		"title": "Binomial Distribution",
+		"company": "Lyft + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2235-decision-trees-and-extreme-boosted-trees",
+		"title": "Decision Trees and Extreme Boosted Trees",
+		"company": "Yelp",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2232-nfl-games",
+		"title": "NFL Games",
+		"company": "Salesforce",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2429-z-and-t-scores",
+		"title": "Z and T Scores",
+		"company": "PayPal",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2352-central-tendency",
+		"title": "Central Tendency",
+		"company": "Tata Consultancy",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2420-normal-and-lognormal-distribution",
+		"title": "Normal and Lognormal Distribution",
+		"company": "Western Digital + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2418-correlation-coefficient",
+		"title": "Correlation Coefficient",
+		"company": "Deloitte + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2262-roads-in-san-francisco",
+		"title": "Roads in San Francisco",
+		"company": "Ebay + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2380-assessing-multicollinearity",
+		"title": "Assessing Multicollinearity",
+		"company": "Amazon + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2322-daily-active-users",
+		"title": "Daily Active Users",
+		"company": "Twitch",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2058-marble-bucket",
+		"title": "Marble Bucket",
+		"company": "Zenefits",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2315-margin-of-error",
+		"title": "Margin of Error",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2335-accepting-rides",
+		"title": "Accepting Rides",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2409-classification-vs-regression-task",
+		"title": "Classification vs Regression Task",
+		"company": "Expedia + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Machine Learning"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2259-predictive-model",
+		"title": "Predictive Model",
+		"company": "Zillow + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2206-operations-team",
+		"title": "Operations Team",
+		"company": "Airbnb",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2357-difference-between-ridge-and-lasso",
+		"title": "Difference Between Ridge and Lasso",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2408-nonlinear-relationship",
+		"title": "Nonlinear Relationship",
+		"company": "Revolut + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2274-dice-expectations",
+		"title": "Dice Expectations",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2369-graph-of-sales-and-revenue",
+		"title": "Graph of Sales and Revenue",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2255-dealing-with-missing-values",
+		"title": "Dealing with Missing Values",
+		"company": "IBM + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2296-regression-definition",
+		"title": "Regression Definition",
+		"company": "Belvedere Trading",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2036-flight-delay-regression",
+		"title": "Flight Delay Regression",
+		"company": "British Airways + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2404-denormalized-database",
+		"title": "Denormalized Database",
+		"company": "Spotify + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2343-comparing-two-groups",
+		"title": "Comparing Two Groups",
+		"company": "Glassdoor",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2079-tallest-people",
+		"title": "Tallest People",
+		"company": "Hewlett-Packard",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2093-confidence-interval",
+		"title": "Confidence Interval",
+		"company": "Tesla",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2234-use-of-naive-bayes",
+		"title": "Use of Naive Bayes",
+		"company": "ActiveCampaign",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2139-black-box-model",
+		"title": "Black Box Model",
+		"company": "Affirm + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2313-rolling-two-dice",
+		"title": "Rolling Two Dice",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2419-mse-for-linear-regression",
+		"title": "MSE for Linear Regression",
+		"company": "American Express + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2327-precision-and-recall",
+		"title": "Precision and Recall",
+		"company": "Intuit",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2325-negative-r-squared",
+		"title": "Negative R Squared",
+		"company": "Meta",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2412-calculating-f1-score",
+		"title": "Calculating F1 Score",
+		"company": "Amazon + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2300-translator-improvement",
+		"title": "Translator Improvement",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2032-doubling-cards",
+		"title": "Doubling Cards",
+		"company": "Zenefits + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2321-skype-usage",
+		"title": "Skype Usage",
+		"company": "Microsoft",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2397-mean-and-median",
+		"title": "Mean and Median",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2205-survey-response-randomness",
+		"title": "Survey Response Randomness",
+		"company": "Glassdoor",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2204-integer-from-1-to-100",
+		"title": "Integer from 1 to 100",
+		"company": "Citadel",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2192-favorite-product-or-app",
+		"title": "Favorite Product or App",
+		"company": "Uber + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2374-where-and-having",
+		"title": "WHERE and HAVING",
+		"company": "Spotify",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2226-toss-a-die",
+		"title": "Toss a Die",
+		"company": "Zenefits",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2418-correlation-coefficient",
+		"title": "Correlation Coefficient",
+		"company": "Deloitte + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2288-combinations-of-three",
+		"title": "Combinations Of Three",
+		"company": "Peak6",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2156-optimization-tools",
+		"title": "Optimization Tools",
+		"company": "Sears + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2159-gradient-boosted-models",
+		"title": "Gradient Boosted Models",
+		"company": "ActiveCampaign + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2409-classification-vs-regression-task",
+		"title": "Classification vs Regression Task",
+		"company": "Expedia + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Machine Learning"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2151-imbalanced-data-issues",
+		"title": "Imbalanced Data Issues",
+		"company": "MAANA + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2354-common-table-expression",
+		"title": "Common Table Expression",
+		"company": "Spotify",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2153-r2-value",
+		"title": "R^2 Value",
+		"company": "Travelport",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2147-data-set-with-500-features",
+		"title": "Data Set with 500 Features",
+		"company": "KPMG + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2397-mean-and-median",
+		"title": "Mean and Median",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2072-data-structures-in-python",
+		"title": "Data Structures in Python",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2322-daily-active-users",
+		"title": "Daily Active Users",
+		"company": "Twitch",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2148-build-a-recommendation-system",
+		"title": "Build a Recommendation System",
+		"company": "Audible + 2 more",
+		"difficulty": "Easy",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2141-charging-people",
+		"title": "Charging people",
+		"company": "Opendoor + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2138-categorize-new-observations",
+		"title": "Categorize New Observations",
+		"company": "Slickdeals + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2053-credit-risk-scoring-model",
+		"title": "Credit Risk Scoring Model",
+		"company": "Square + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2055-random-bucketing",
+		"title": "Random Bucketing",
+		"company": "Amazon + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2108-better-algorithm",
+		"title": "Better Algorithm",
+		"company": "Netflix + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2146-multicollinearity-in-regression",
+		"title": "Multicollinearity in Regression",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2145-bagged-and-boosting-models",
+		"title": "Bagged and Boosting Models",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2438-winning-on-your-first-roll",
+		"title": "Winning on Your First Roll",
+		"company": "Asana",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2144-assumption-of-linear-regression",
+		"title": "Assumption of Linear Regression",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2069-financial-institution",
+		"title": "Financial Institution",
+		"company": "DemystData",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2079-tallest-people",
+		"title": "Tallest People",
+		"company": "Hewlett-Packard",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2143-pca-and-fa",
+		"title": "PCA and FA",
+		"company": "Vizient + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2060-first-to-six",
+		"title": "First to Six",
+		"company": "Zenefits",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2045-n-gram",
+		"title": "N-gram",
+		"company": "Yelp + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2315-margin-of-error",
+		"title": "Margin of Error",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2257-sub-spaces",
+		"title": "Sub-Spaces",
+		"company": "Walmart + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2135-perform-knn",
+		"title": "Perform KNN",
+		"company": "American Express + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2134-preprocessing-step-for-supervised-learning",
+		"title": "Preprocessing Step for Supervised Learning",
+		"company": "General Assembly",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2133-scikit-learn-models-missing-values",
+		"title": "Scikit-learn Models Missing Values",
+		"company": "General Assembly",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2404-denormalized-database",
+		"title": "Denormalized Database",
+		"company": "Spotify + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2342-credit-card-activity",
+		"title": "Credit Card Activity",
+		"company": "Visa",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2011-n-dices",
+		"title": "n Dices",
+		"company": "Amazon + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2061-nyc-daily-trips",
+		"title": "NYC Daily Trips",
+		"company": "Capital One + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2070-random-forrest",
+		"title": "Random Forrest",
+		"company": "SparkCognition",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2029-purchase-intent",
+		"title": "Purchase Intent",
+		"company": "Stitch Fix",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2088-categorical-dependent-variable",
+		"title": "Categorical Dependent Variable",
+		"company": "IBM",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2117-regression-and-classification-problems",
+		"title": "Regression and Classification Problems",
+		"company": "General Assembly + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2335-accepting-rides",
+		"title": "Accepting Rides",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2118-rate-a-movie",
+		"title": "Rate a Movie",
+		"company": "General Assembly",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2035-heatmap-telling-taxi-drivers",
+		"title": "Heatmap Telling Taxi Drivers",
+		"company": "Lyft",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2278-pick-2-queens",
+		"title": "Pick 2 Queens",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2098-supervised-and-unsupervised-learning",
+		"title": "Supervised and Unsupervised Learning",
+		"company": "Amadeus",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2215-height-of-oil-storage-tank",
+		"title": "Height of Oil Storage Tank",
+		"company": "Orbital Insight + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2296-regression-definition",
+		"title": "Regression Definition",
+		"company": "Belvedere Trading",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2036-flight-delay-regression",
+		"title": "Flight Delay Regression",
+		"company": "British Airways + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2099-pca",
+		"title": "PCA",
+		"company": "EY + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2246-overfitting-problem",
+		"title": "Overfitting Problem",
+		"company": "Capital One",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2121-evaluate-regression-model",
+		"title": "Evaluate Regression Model",
+		"company": "General Assembly + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2259-predictive-model",
+		"title": "Predictive Model",
+		"company": "Zillow + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2245-find-who-cheated",
+		"title": "Find Who Cheated",
+		"company": "Kabbage",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2037-performers-with-mapreduce",
+		"title": "Performers with MapReduce",
+		"company": "Kabbage + 2 more",
+		"difficulty": "Easy",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2408-nonlinear-relationship",
+		"title": "Nonlinear Relationship",
+		"company": "Revolut + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2206-operations-team",
+		"title": "Operations Team",
+		"company": "Airbnb",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2357-difference-between-ridge-and-lasso",
+		"title": "Difference Between Ridge and Lasso",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2260-changing-the-scale-of-distance",
+		"title": "Changing the Scale of Distance",
+		"company": "Via Transportation (New York) + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2087-blue-paint-cans",
+		"title": "Blue Paint Cans",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2093-confidence-interval",
+		"title": "Confidence Interval",
+		"company": "Tesla",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2083-union-and-union-all",
+		"title": "UNION and UNION ALL",
+		"company": "Southwest Airlines + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2361-standard-error-of-the-mean",
+		"title": "Standard Error of the Mean",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2139-black-box-model",
+		"title": "Black Box Model",
+		"company": "Affirm + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2339-returning-user",
+		"title": "Returning User",
+		"company": "Meta",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2369-graph-of-sales-and-revenue",
+		"title": "Graph of Sales and Revenue",
+		"company": "Google + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2043-p-value",
+		"title": "P-value",
+		"company": "State Farm + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2313-rolling-two-dice",
+		"title": "Rolling Two Dice",
+		"company": "Walmart + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2255-dealing-with-missing-values",
+		"title": "Dealing with Missing Values",
+		"company": "IBM + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2283-two-out-of-five",
+		"title": "Two Out Of Five",
+		"company": "Jane Street",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2374-where-and-having",
+		"title": "WHERE and HAVING",
+		"company": "Spotify",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2091-python-dictionary",
+		"title": "Python Dictionary",
+		"company": "Moore Capital Management",
+		"difficulty": "Easy",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2412-calculating-f1-score",
+		"title": "Calculating F1 Score",
+		"company": "Amazon + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2122-confusion-matrix",
+		"title": "Confusion Matrix",
+		"company": "General Assembly",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2185-calculation-of-test-duration",
+		"title": "Calculation of Test Duration",
+		"company": "Thumbtack + 1 more",
+		"difficulty": "Easy",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2300-translator-improvement",
+		"title": "Translator Improvement",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2377-clustering-distance-measures",
+		"title": "Clustering distance measures",
+		"company": "Walmart + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2123-machine-learning-model",
+		"title": "Machine Learning Model",
+		"company": "General Assembly",
+		"difficulty": "Easy",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2032-doubling-cards",
+		"title": "Doubling Cards",
+		"company": "Zenefits + 2 more",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2090-windows-in-nyc",
+		"title": "Windows in NYC",
+		"company": "Travel Click",
+		"difficulty": "Easy",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2241-pair-by-drawing-2-cards",
+		"title": "Pair by Drawing 2 Cards",
+		"company": "Meta",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2358-four-people-in-an-elevator",
+		"title": "Four People in an Elevator",
+		"company": "Google",
+		"difficulty": "Easy",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2328-best-friend",
+		"title": "Best Friend",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2046-finding-invalid-schools",
+		"title": "Finding Invalid Schools",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2395-linear-regression-t-test",
+		"title": "Linear Regression & T-test",
+		"company": "Amazon + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2403-bigram-tokenization",
+		"title": "Bigram Tokenization",
+		"company": "Yelp + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2347-selecting-k",
+		"title": "Selecting K",
+		"company": "Microsoft + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2415-broken-packages",
+		"title": "Broken Packages",
+		"company": "Amazon + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2417-ab-testing",
+		"title": "A-B Testing",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2434-more-effective-advertisement",
+		"title": "More Effective Advertisement",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2441-stock-price",
+		"title": "Stock Price",
+		"company": "MetLife + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2398-probability-density-function",
+		"title": "Probability Density Function",
+		"company": "Google + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2436-new-vs-old-design",
+		"title": "New vs Old Design",
+		"company": "Microsoft + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2389-predict-next-purchase",
+		"title": "Predict Next Purchase",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2423-cosine-convolution",
+		"title": "Cosine Convolution",
+		"company": "Apple",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2437-defective-bulbs",
+		"title": "Defective Bulbs",
+		"company": "Apple + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2430-skewed-data",
+		"title": "Skewed Data",
+		"company": "Microsoft",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2440-random-seats",
+		"title": "Random Seats",
+		"company": "DoorDash",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2399-posterior-probability",
+		"title": "Posterior Probability",
+		"company": "Deloitte + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2360-new-notification-system",
+		"title": "New Notification System",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2425-p-value-for-the-coin-to-be-fair",
+		"title": "P Value for the Coin to be Fair",
+		"company": "Lyft",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2310-cost-of-discount-coupons",
+		"title": "Cost of Discount Coupons",
+		"company": "Lyft",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2424-dataframe-and-rdd",
+		"title": "Dataframe and RDD",
+		"company": "EY",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2416-long-term-probability",
+		"title": "Long Term Probability",
+		"company": "Stitch Fix",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2363-database-for-customer-address",
+		"title": "Database for Customer Address",
+		"company": "Amazon + 1 more",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2303-storage-plan-usage",
+		"title": "Storage Plan Usage",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2426-multi-dimensional-data",
+		"title": "Multi-dimensional Data",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2373-replacements-recommendation",
+		"title": "Replacements Recommendation",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2375-views-and-storage-space",
+		"title": "Views and storage space",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2405-random-card",
+		"title": "Random Card",
+		"company": "Google + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2384-union-versus-union-all",
+		"title": "Union Versus Union All",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2291-linear-regression-optimization",
+		"title": "Linear Regression Optimization",
+		"company": "Two Sigma",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2382-automating-traffic-lights",
+		"title": "Automating Traffic Lights",
+		"company": "KPMG + 2 more",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2427-heteroskedasticity",
+		"title": "Heteroskedasticity",
+		"company": "Goldman Sachs",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2302-shorts-success-metrics",
+		"title": "Shorts Success Metrics",
+		"company": "YouTube",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2428-statistical-hypothesis",
+		"title": "Statistical Hypothesis",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2365-scalable-data-science",
+		"title": "Scalable Data Science",
+		"company": "Deloitte + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2329-health-of-groups",
+		"title": "Health of Groups",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2305-uber-black-rides",
+		"title": "Uber Black Rides",
+		"company": "Uber",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2346-high-bias-high-variance",
+		"title": "High Bias High Variance",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2349-cities-with-higher-or-lower-demand",
+		"title": "Cities with Higher or Lower Demand",
+		"company": "Lyft",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2407-21-unbiased-coins",
+		"title": "21 Unbiased Coins",
+		"company": "Goldman Sachs + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2308-ad-success-metrics",
+		"title": "Ad Success Metrics",
+		"company": "Instagram",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2387-table-joins",
+		"title": "Table Joins",
+		"company": "Deloitte",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2324-bias-variance-tradeoff",
+		"title": "Bias-Variance Tradeoff",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2379-stories-difficulty",
+		"title": "Stories Difficulty",
+		"company": "Duolingo",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2431-calculate-probability",
+		"title": "Calculate Probability",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2311-discount-coupons-usage",
+		"title": "Discount Coupons Usage",
+		"company": "Lyft",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2289-expectation-of-sum-of-dices",
+		"title": "Expectation Of Sum Of Dices",
+		"company": "Susquehanna International Group + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2385-right-vs-left-skewed-distributions",
+		"title": "Right vs Left-Skewed Distributions",
+		"company": "Microsoft + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2317-more-heads",
+		"title": "More Heads",
+		"company": "Goldman Sachs + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2413-beta-and-systematic-risk",
+		"title": "Beta and Systematic Risk",
+		"company": "Goldman Sachs + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2270-two-boys-odds",
+		"title": "Two Boys Odds",
+		"company": "DE Shaw & Co",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2301-recommended-news-metrics",
+		"title": "Recommended News Metrics",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2406-probability-distribution",
+		"title": "Probability Distribution",
+		"company": "Google + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2341-ab-testing-a-campaign",
+		"title": "A-B Testing a Campaign",
+		"company": "Robinhood",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2304-two-metrics-discrepancy",
+		"title": "Two Metrics Discrepancy",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2275-even-heads",
+		"title": "Even Heads",
+		"company": "Jane Street",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2266-roulette-expectations",
+		"title": "Roulette Expectations",
+		"company": "Belvedere Trading",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2284-roll-a-dice-three-times",
+		"title": "Roll A Dice Three Times",
+		"company": "Jane Street",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2319-firm-bankruptcy",
+		"title": "Firm Bankruptcy",
+		"company": "Goldman Sachs",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2290-fit-a-regression-model",
+		"title": "Fit A Regression Model",
+		"company": "Two Sigma",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2383-version-control",
+		"title": "Version Control",
+		"company": "Capital One + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2271-make-a-bit",
+		"title": "Make A Bit",
+		"company": "DRW + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2297-willing-to-pay-to-play",
+		"title": "Willing To Pay To Play",
+		"company": "Belvedere Trading + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2381-linear-discriminant-analysis",
+		"title": "Linear Discriminant Analysis",
+		"company": "PayPal + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2332-skewed-data",
+		"title": "Skewed Data",
+		"company": "Deloitte + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2030-estimating-d",
+		"title": "Estimating D",
+		"company": "Spotify",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2330-database-normalization",
+		"title": "Database Normalization",
+		"company": "Deloitte",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2368-probability-of-having-a-sister",
+		"title": "Probability of having a sister",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2194-sample-size",
+		"title": "Sample Size",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2306-metrics-tracking",
+		"title": "Metrics Tracking",
+		"company": "LinkedIn",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2316-random-numbered-cards",
+		"title": "Random Numbered Cards",
+		"company": "IBM + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2299-volatility-smile",
+		"title": "Volatility Smile",
+		"company": "Belvedere Trading",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2392-customer-engagement-and-disengagement",
+		"title": "Customer Engagement and Disengagement",
+		"company": "DoorDash + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2362-normal-approximation-to-binomial",
+		"title": "Normal Approximation to Binomial",
+		"company": "KPMG + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2345-coefficients-of-logistic-regression",
+		"title": "Coefficients of Logistic Regression",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2292-regressor-relationship",
+		"title": "Regressor Relationship",
+		"company": "Two Sigma",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2340-facebook-groups-in-the-us",
+		"title": "Facebook Groups in the US",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2439-average-age-of-customers",
+		"title": "Average Age of Customers",
+		"company": "Airbnb",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2356-weights-of-neurons",
+		"title": "Weights of Neurons",
+		"company": "Pearson",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2282-order-matters",
+		"title": "Order Matters",
+		"company": "Jane Street",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2033-unfair-coin",
+		"title": "Unfair Coin",
+		"company": "Meta + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2216-facebook-likes",
+		"title": "Meta-Facebook Likes",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2287-same-number-of-heads",
+		"title": "Same Number Of Heads",
+		"company": "Optiver",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2355-trie-and-binary-tree",
+		"title": "Trie and Binary Tree",
+		"company": "Adobe + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2366-the-5-vs",
+		"title": "The 5 Vs",
+		"company": "Microsoft",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2367-dmatrix-in-xgboost",
+		"title": "DMatrix in XGBoost",
+		"company": "Deloitte",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2337-too-many-friends",
+		"title": "Too Many Friends",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2256-boosting-work",
+		"title": "Boosting Work",
+		"company": "Intuit",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2370-new-users-engagement",
+		"title": "New Users Engagement",
+		"company": "Twitter + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2334-svm-classifier",
+		"title": "SVM Classifier",
+		"company": "Uber",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2351-maximum-likelihood-estimation",
+		"title": "Maximum Likelihood Estimation",
+		"company": "Goldman Sachs",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2376-bounding-box-regressor",
+		"title": "Bounding Box Regressor",
+		"company": "Apple + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2378-clicks-on-search-result",
+		"title": "Clicks on Search Result",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2391-teenagers-parents-on-facebook",
+		"title": "Teenager's Parents on Facebook",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2338-few-instances-labeled",
+		"title": "Few Instances Labeled",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2393-probability-vs-likelihood",
+		"title": "Probability vs Likelihood",
+		"company": "Deloitte + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2331-shapiro-wilk-test",
+		"title": "Shapiro-Wilk Test",
+		"company": "Deloitte",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2326-panel-vs-cross-sectional-data",
+		"title": "Panel vs Cross-sectional Data",
+		"company": "Microsoft",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2314-larger-expected-value",
+		"title": "Larger Expected Value",
+		"company": "PayPal + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2312-two-coupons",
+		"title": "Two Coupons",
+		"company": "Lyft",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2307-close-friends-metrics",
+		"title": "Close Friends Metrics",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2293-features-correlation",
+		"title": "Features Correlation",
+		"company": "Two Sigma + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2286-consecutive-sixs",
+		"title": "Consecutive Sixs",
+		"company": "Jump Trading",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2281-double-hearts-question",
+		"title": "Double Hearts Question",
+		"company": "Jane Street",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2268-toss-till-achieved",
+		"title": "Toss 'Till Achieved",
+		"company": "Chicago Trading Company",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2188-serving-ads-within-newsfeed",
+		"title": "Serving ads within Newsfeed",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2269-more-than-550",
+		"title": "More Than 550",
+		"company": "DE Shaw & Co",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2005-raining-in-seattle",
+		"title": "Raining in Seattle",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2003-two-cards-same-suite",
+		"title": "Two Cards Same Suite",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2002-mcds-big-macs",
+		"title": "McD's Big Macs",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2170-group-or-order-by",
+		"title": "GROUP or ORDER BY",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2212-neural-network-and-logistic-regression",
+		"title": "Neural Network and Logistic Regression",
+		"company": "Amazon",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2211-finding-invalid-schools",
+		"title": "Finding Invalid Schools",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2125-regularization-reduces-overfitting",
+		"title": "Regularization Reduces Overfitting",
+		"company": "General Assembly",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2203-investigate-the-discrepancy",
+		"title": "Investigate the Discrepancy",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2202-double-the-number-of-ads",
+		"title": "Double the Number of Ads",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2100-k-means-algorithm",
+		"title": "K-means Algorithm",
+		"company": "BearingPoint + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2075-identify-ebay-objects",
+		"title": "Identify Ebay Objects",
+		"company": "Ebay",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2074-linked-list-and-array",
+		"title": "Linked list and Array",
+		"company": "Amazon + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2073-expected-payout",
+		"title": "Expected Payout",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2157-credit-card-fraud-model",
+		"title": "Credit Card Fraud Model",
+		"company": "Capital One + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2158-impute-missing-information",
+		"title": "Impute Missing Information",
+		"company": "Airbnb + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2149-standard-deviation",
+		"title": "Standard Deviation",
+		"company": "Travelport",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2059-car-gps-data",
+		"title": "Car GPS Data",
+		"company": "AXA + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2001-different-card",
+		"title": "Different Card",
+		"company": "Google + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2051-influencer-metrics",
+		"title": "Influencer Metrics",
+		"company": "Twitter",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2128-examples-of-machine-learning-models",
+		"title": "Examples of Machine Learning Models",
+		"company": "General Assembly",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2052-random-forest",
+		"title": "Random Forest",
+		"company": "Instacart + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2142-used-by-different-groups",
+		"title": "Used by Different Groups",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2140-colinearity-in-data-analysis",
+		"title": "Colinearity in Data Analysis",
+		"company": "Amazon + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2044-spike-in-uploads",
+		"title": "Spike in Uploads",
+		"company": "Yammer + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2039-books-collection",
+		"title": "Books Collection",
+		"company": "Workday + 1 more",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2124-bias-variance-trade-off",
+		"title": "Bias-Variance Trade-off",
+		"company": "General Assembly",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2071-model-parameters",
+		"title": "Model Parameters",
+		"company": "Burtch Works + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2120-model-evaluation-procedures",
+		"title": "Model Evaluation Procedures",
+		"company": "General Assembly + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2047-computational-tricks",
+		"title": "Computational Tricks",
+		"company": "Microsoft",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2105-predict-next-item",
+		"title": "Predict Next Item",
+		"company": "Massachusetts General Hospital",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2025-search-toolbar-change",
+		"title": "Search Toolbar Change",
+		"company": "Quora",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2028-where-are-the-birthday-people",
+		"title": "Where Are the Birthday People",
+		"company": "Yammer + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2103-bayesian-logistic-regression",
+		"title": "Bayesian Logistic Regression",
+		"company": "Etsy + 2 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2024-moms-spaghetti",
+		"title": "Mom's Spaghetti",
+		"company": "Natera + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2014-determining-origin-city",
+		"title": "Determining Origin City",
+		"company": "Uber",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2094-pca-and-ldaqda",
+		"title": "PCA and LDA-QDA",
+		"company": "IBM",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2013-mean-median-age-in-mexico",
+		"title": "Mean, Median Age in Mexico",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2089-logistic-regression-and-linear-regression",
+		"title": "Logistic Regression and Linear Regression",
+		"company": "IBM",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2076-stones-game",
+		"title": "Stones Game",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2010-active-user-probability",
+		"title": "Active User Probability",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2068-logistic-regression-and-odds-ratio",
+		"title": "Logistic Regression and Odds Ratio",
+		"company": "IBM + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2057-facebook-nicknames",
+		"title": "Meta-Facebook Nicknames",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2056-gbm-or-logistic-regression",
+		"title": "GBM or Logistic Regression",
+		"company": "ZestFinance",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2041-users-in-meaningful-segments",
+		"title": "Users in Meaningful Segments",
+		"company": "Apple + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2026-twitter-feed",
+		"title": "Twitter Feed",
+		"company": "Microsoft + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2017-highly-correlated-predictors",
+		"title": "Highly Correlated Predictors",
+		"company": "Google",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2018-anti-dentite",
+		"title": "Anti-Dentite",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2022-time-series-forecasting-techniques",
+		"title": "Time Series Forecasting Techniques",
+		"company": "Uber + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2021-metrics-to-acquire-customers",
+		"title": "Metrics to Acquire Customers",
+		"company": "Uber",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2012-three-ants",
+		"title": "Three Ants",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2009-expectation-of-variance",
+		"title": "Expectation of Variance",
+		"company": "Amazon + 1 more",
+		"difficulty": "Medium",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2008-are-we-friends",
+		"title": "Are We Friends",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2007-estimating-birthdays",
+		"title": "Estimating Birthdays",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "Business Case"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2006-comparing-performance-of-engines",
+		"title": "Comparing Performance of Engines",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2004-subpopulations",
+		"title": "Subpopulations",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2359-estimated-time-to-arrive",
+		"title": "Estimated Time to Arrive",
+		"company": "Lyft",
+		"difficulty": "Hard",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2402-covariate-imbalance",
+		"title": "Covariate Imbalance",
+		"company": "Robinhood + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2323-ols-assumptions",
+		"title": "OLS Assumptions",
+		"company": "Capital One",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2318-probability-density-function",
+		"title": "Probability Density Function",
+		"company": "Goldman Sachs",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2386-central-limit-theorem",
+		"title": "Central Limit Theorem",
+		"company": "CVS Health + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2435-spam-emails",
+		"title": "Spam Emails",
+		"company": "Google",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2197-customer-prediction",
+		"title": "Customer Prediction",
+		"company": "Amazon + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2277-expectation-of-multiplication",
+		"title": "Expectation Of Multiplication",
+		"company": "Jane Street",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2294-expectation-of-a-gaussian",
+		"title": "Expectation Of A Gaussian",
+		"company": "DE Shaw & Co + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2309-data-quality-issue",
+		"title": "Data Quality Issue",
+		"company": "Robinhood + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2432-fair-vs-biased-coins",
+		"title": "Fair vs Biased Coins",
+		"company": "Oracle",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2272-uniform-expectation",
+		"title": "Uniform Expectation",
+		"company": "DRW",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2280-dice-with-12-faces",
+		"title": "Dice with 12 Faces",
+		"company": "Jane Street + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2388-python-generators",
+		"title": "Python Generators",
+		"company": "SAP + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2333-roc-curve",
+		"title": "ROC Curve",
+		"company": "Deloitte + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2267-birthdays-around-a-round-table",
+		"title": "Birthdays Around A Round Table",
+		"company": "Belvedere Trading + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2348-two-uniformly-distributed-variables",
+		"title": "Two Uniformly Distributed Variables",
+		"company": "Google",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2350-fake-news-on-facebook",
+		"title": "Fake News on Facebook",
+		"company": "Meta",
+		"difficulty": "Hard",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2344-maximum-likelihood-of-heads",
+		"title": "Maximum Likelihood of Heads",
+		"company": "Amazon",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2298-get-one-game-right-or-all",
+		"title": "Get One Game Right Or All",
+		"company": "Belvedere Trading + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2336-improve-user-profile",
+		"title": "Improve User Profile",
+		"company": "LinkedIn",
+		"difficulty": "Hard",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2433-drawing-balls",
+		"title": "Drawing Balls",
+		"company": "Goldman Sachs",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2390-identify-peak-points",
+		"title": "Identify Peak Points",
+		"company": "Square + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2394-restaurant-recommendation",
+		"title": "Restaurant Recommendation",
+		"company": "Meta",
+		"difficulty": "Hard",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2295-5-Rounds-Bet",
+		"title": "5 Rounds Bet",
+		"company": "DE Shaw & Co + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2276-matching-pairs-attempts",
+		"title": "Matching Pairs Attempts",
+		"company": "Jane Street + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2273-ask-one-question-to-win",
+		"title": "Ask One Question To Win",
+		"company": "Jane Street",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2422-mean-median-and-mode",
+		"title": "Mean, Median and Mode",
+		"company": "Microsoft",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2364-terabyte-of-data",
+		"title": "Terabyte of Data",
+		"company": "Capital One + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Technical"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2451-netflix-clone",
+		"title": "Netflix Clone",
+		"company": "Netflix",
+		"difficulty": "Hard",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2353-friends-you-may-know",
+		"title": "Friends You May Know",
+		"company": "Meta",
+		"difficulty": "Hard",
+		"question_type": "System Design"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2285-two-out-of-three-tails",
+		"title": "Two Out of Three Tails",
+		"company": "Jane Street + 2 more",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2450-adding-waiting-period",
+		"title": "Adding Waiting Period",
+		"company": "Lyft",
+		"difficulty": "Hard",
+		"question_type": "Product"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2401-logistic-regression-in-sklearn",
+		"title": "Logistic Regression in Sklearn",
+		"company": "State Farm + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2396-sampling-distribution-and-type-1-errors",
+		"title": "Sampling Distribution and Type 1 Errors",
+		"company": "Google",
+		"difficulty": "Hard",
+		"question_type": "Statistics"
+	},
+	{
+		"link": "https://platform.stratascratch.com/technical/2400-coin-tossing",
+		"title": "Coin Tossing",
+		"company": "Google + 1 more",
+		"difficulty": "Hard",
+		"question_type": "Probability"
+	}
+]

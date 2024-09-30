@@ -1,0 +1,1 @@
+{"link": "https://platform.stratascratch.com/technical/2037-performers-with-mapreduce", "title": "Performers with MapReduce", "company": ["Kabbage", "Capital One", "MetLife"], "difficulty": "Easy", "question_type": "System Design", "id": "ID 2037", "description": "How would you join two data files (customers, sales) and report top 10 performers with MapReduce?", "solution": ""}

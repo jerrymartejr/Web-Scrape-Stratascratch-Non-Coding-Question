@@ -1,0 +1,1 @@
+{"link": "https://platform.stratascratch.com/technical/2055-random-bucketing", "title": "Random Bucketing", "company": ["Amazon", "Meta"], "difficulty": "Easy", "question_type": "Statistics", "id": "ID 2055", "description": "In an A/B test, how can you check if assignment to the various buckets was truly random?", "solution": ""}
