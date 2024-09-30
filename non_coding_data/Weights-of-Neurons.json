@@ -1,1 +1,0 @@
-{"link": "https://platform.stratascratch.com/technical/2356-weights-of-neurons", "title": "Weights of Neurons", "company": ["Pearson"], "difficulty": "Medium", "question_type": "Modeling", "id": "ID 2356", "description": "Why the weights of neurons in a neural network should not be initialized to 0?", "solution": ""}

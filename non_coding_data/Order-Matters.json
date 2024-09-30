@@ -1,1 +1,0 @@
-{"link": "https://platform.stratascratch.com/technical/2282-order-matters", "title": "Order Matters", "company": ["Jane Street"], "difficulty": "Medium", "question_type": "Probability", "id": "ID 2282", "description": "One coin is continuously flipped. If a {HHT} comes up before {HTT} then A wins, else B wins. What is the probability that A wins?", "solution": ""}

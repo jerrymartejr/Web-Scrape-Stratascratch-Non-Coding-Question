@@ -1,1 +1,0 @@
-{"link": "https://platform.stratascratch.com/technical/2039-books-collection", "title": "Books Collection", "company": ["Workday", "Asana"], "difficulty": "Medium", "question_type": "System Design", "id": "ID 2039", "description": "Given a huge collection of books, how would you tag each book based on genre?", "solution": ""}
